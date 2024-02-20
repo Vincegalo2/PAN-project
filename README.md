@@ -4,7 +4,7 @@ Welcome to the PAN Project. This cool project came to life during my final sprin
 
 Basically, the main goal of this project is to peel back the layers of popular music world to reveal the intrincate details that makes an artist unique and therefore popular over time. So, stick around and let's explore the magic of music data together! 🎵 #PANProject
 
-![PAN_Project]()
+![PAN_Project](https://github.com/Vincegalo2/PAN-project/blob/main/PAN_picture1.png)
 
 ## Overview
 

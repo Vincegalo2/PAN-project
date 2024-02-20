@@ -1,0 +1,9 @@
+# external requirements
+python 3.12.1
+pandas 2.2.0
+re 2.2.1
+numpy 1.26.4
+seaborn 0.13.2
+xgboost 2.0.3
+sklearn 1.4.0
+matplotlib 3.8.2
